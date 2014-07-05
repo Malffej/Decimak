@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Name of the application -->
+    <string name="app_name">Decimak</string>
+    
+    <!-- Name of the button -->
+    <string name="button">Button</string>
+    
+    <!-- Name of the settings button -->
+    <string name="action_settings">Settings</string>
+    
+    <!-- Description at the top of activity_main -->
+    <string name="description">Shake or Press the Button!</string>
+    
+    
+
+</resources>
